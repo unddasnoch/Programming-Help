@@ -56,11 +56,11 @@ https://www.youtube.com/user/learncodeacademy/featured\
 MortMort - All about PixelArt\
 https://www.youtube.com/channel/UCsn9MzwyPKeCE6MEGtMU4gg\
 
-Wes Bos - Javascript and web development and some more stuff
-https://www.youtube.com/user/wesbos/featured
+Wes Bos - Javascript and web development and some more stuff\
+https://www.youtube.com/user/wesbos/featured\
 
-Codecourse - ALOT of web development stuff
-https://www.youtube.com/user/phpacademy/featured
+Codecourse - ALOT of web development stuff\
+https://www.youtube.com/user/phpacademy/featured\
 
-Meth Meht Method - is all about how to cook meth just a joke lol he had done some intresting game dev series for javascript
-https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ/videos
+Meth Meht Method - is all about how to cook meth just a joke lol he had done some intresting game dev series for javascript\
+https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ/videos\
