@@ -20,6 +20,19 @@ https://www.youtube.com/channel/UC_hG9fglfmShkwex1KVydHA/featured
 Andre Madarang - Mainly doing stuff in Laravel and VueJS
 https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ/featured
 
+Code Inspire - again laravel and vuejs but with a little spice of angular
+https://www.youtube.com/channel/UCnj1BK9TU32-bOlZ9415fuw/featured
 
+DevTips - is a weekly show for you who want to be inspired and learn watch him
+https://www.youtube.com/user/DevTipsForDesigners/featured
+
+Fun Fun Function - i didn't really get what he is doing but it seems intresting tho 
+https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+
+Harry Wolff - a weekly show about programming and some other stuff
+https://www.youtube.com/channel/UCgdeMp2ZBnovi12THmLc47g
+
+Paul Halliday - Mostly js and js frameworks like angular and some other stuff
+https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg/featured
 
 
