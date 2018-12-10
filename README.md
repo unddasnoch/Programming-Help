@@ -35,4 +35,20 @@ https://www.youtube.com/channel/UCgdeMp2ZBnovi12THmLc47g
 Paul Halliday - Mostly js and js frameworks like angular and some other stuff
 https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg/featured
 
+Tim Ermilov - If you searching something for box.js
+https://www.youtube.com/user/obercrash/featured
 
+Traversy Media - An allround package for web development
+https://www.youtube.com/user/TechGuyWeb/featured
+
+devdojo - a lot laravel and a little bit html
+https://www.youtube.com/channel/UCGfS15jIidDqpAk9pcCcAHw
+
+DevMarketer - some laravel but mostly blog tutorials
+https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA
+
+Kyle Robinson Young - A js based channel with videos with specific topics for js
+https://www.youtube.com/user/kylerobinsonyoung/featured
+
+LearnCode.academy - A nice channel with many different topics like angular.js,node.js,react.js and many more
+https://www.youtube.com/user/learncodeacademy/featured
